@@ -52,6 +52,3 @@ Currently exploring **Data Science** and **Machine Learning** to create impactfu
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-khurram/)
 [![E-Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizan.khurram@hotmail.com)
-
----
-💬 _“If you are not even aware of the problem that you are trying to solve, the worst thing that you can do is hardwork.”_
